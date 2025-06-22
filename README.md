@@ -1,2 +1,2 @@
 # i4-2024-25
-uml
+Laravel project template
